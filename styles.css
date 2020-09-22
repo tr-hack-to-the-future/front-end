@@ -18,4 +18,14 @@ li:hover {
 
 .icon {
 	border-radius: 25px;
+	width:100%;
 }
+
+.calltoaction-btn {
+	text-align: center;
+}
+
+.hero {
+	margin: 5%;
+}
+
