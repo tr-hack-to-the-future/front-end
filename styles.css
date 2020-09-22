@@ -1,0 +1,21 @@
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	font-family: 'Lato', sans-serif;
+
+}
+
+li {
+	list-style-type: none;
+}
+li:hover {
+	color:blue;
+	cursor:pointer;
+}
+
+.icon {
+	border-radius: 25px;
+}
