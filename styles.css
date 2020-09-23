@@ -56,8 +56,43 @@ p {
 ​.hdrColor{
     color: #5e35b1;
 }
+
+.container-newRequest{
+
+    padding-top:15px;
+    padding-bottom:15px;
+}
+
+.form-style-newRequest
+{
+    padding-top:30px;
+}
+
+.page-heading-newRequest{
+
+	text-align: center;
+}
+.page-information-newRequest{
+    text-align: center;
+}
+
+.radioDurationMonths{
+    padding-top: 5px;
+}
+
+.incentive-style-newRequest{
+    padding-top: 10px;
+}
+.buttonRegister-newRequest{
+    background-color: #5e35b1 ;
+    border-color:#5e35b1 ; 
+    text-align: right;
+}
+
 @media screen and (max-width: 1000px) {
     div.hideonmobile {
         display: none;
     }
   }
+
+
