@@ -1,6 +1,5 @@
-
 body {
-	font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 /*.navbar {
@@ -8,91 +7,88 @@ body {
 }*/
 
 h1 {
-	font-family: 'Lato', sans-serif;
-
+  font-family: "Lato", sans-serif;
 }
 
 li {
-	list-style-type: none;
+  list-style-type: none;
 }
 li:hover {
-	color: #ababb0;
-	cursor:pointer;
+  color: #ababb0;
+  cursor: pointer;
 }
 
 p {
-	text-align: justify;
+  text-align: justify;
 }
 
 .icon {
-	border-radius: 25px;
-	width:100%;
+  border-radius: 25px;
+  width: 100%;
 }
 
 .calltoaction-btn {
-	text-align: center;
+  text-align: center;
 }
 
 .hero {
-	margin: 5%;
+  margin: 5%;
 }
 
 .hero-img {
-	width: 100%;
-	-webkit-box-shadow: 1px 8px 12px 0px rgba(194,190,194,1);
-	-moz-box-shadow: 1px 8px 12px 0px rgba(194,190,194,1);
-	box-shadow: 1px 8px 12px 0px rgba(194,190,194,1);
+  width: 100%;
+  -webkit-box-shadow: 1px 8px 12px 0px rgba(194, 190, 194, 1);
+  -moz-box-shadow: 1px 8px 12px 0px rgba(194, 190, 194, 1);
+  box-shadow: 1px 8px 12px 0px rgba(194, 190, 194, 1);
 }
 .explainer h2 {
-	text-align:center;
-	font-weight: bold;
+  text-align: center;
+  font-weight: bold;
 }
 
-.navpurple{
-    background-color:#5e35b1;
+.navpurple {
+  background-color: #5e35b1;
 }
 
 /* Header Color */
-​.hdrColor{
-    color: #5e35b1;
+​.hdrColor {
+  color: #5e35b1;
 }
 
-.container-newRequest{
-
-    padding-top:15px;
-    padding-bottom:15px;
+.container-newRequest {
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
-.form-style-newRequest
-{
-    padding-top:30px;
+.form-style-newRequest {
+  padding-top: 30px;
 }
 
-.page-heading-newRequest{
+.page-heading-newRequest {
+  text-align: center;
+}
+.page-information-newRequest {
+  text-align: center;
+}
 
+.radioDurationMonths {
+  padding-top: 5px;
+}
+
+.incentive-style-newRequest {
+  padding-top: 10px;
+}
+
+.charity-carousel {
+  margin-left: 5%;
+}
+
+.carousel-caption p {
 	text-align: center;
-}
-.page-information-newRequest{
-    text-align: center;
-}
-
-.radioDurationMonths{
-    padding-top: 5px;
-}
-
-.incentive-style-newRequest{
-    padding-top: 10px;
-}
-.buttonRegister-newRequest{
-    background-color: #5e35b1 ;
-    border-color:#5e35b1 ; 
-    text-align: right;
 }
 
 @media screen and (max-width: 1000px) {
-    div.hideonmobile {
-        display: none;
-    }
+  div.hideonmobile {
+    display: none;
   }
-
-
+}
