@@ -18,6 +18,10 @@ li:hover {
   cursor: pointer;
 }
 
+.navbar>li>a {
+    padding: 0;
+}
+
 p {
   text-align: justify;
 }
@@ -46,9 +50,9 @@ p {
   font-weight: bold;
 }
 
-.navpurple {
+/*.navpurple {
   background-color: #5e35b1;
-}
+}*/
 
 .navbutton{
   background-color: #5e35b1;
@@ -58,6 +62,12 @@ p {
 ​.hdrColor {
   color: #5e35b1;
 }
+
+
+
+
+
+/* Request */
 
 .container-newRequest {
   padding-top: 15px;
