@@ -50,6 +50,10 @@ p {
   background-color: #5e35b1;
 }
 
+.navbutton{
+  background-color: #5e35b1;
+  color : white;
+}
 /* Header Color */
 ​.hdrColor {
   color: #5e35b1;
